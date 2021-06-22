@@ -1,6 +1,4 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+Print=("Hello World")
+Hello World=float(7.25)
 ---
-Your text
-Use the left arrow to go back!
